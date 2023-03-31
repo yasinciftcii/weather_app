@@ -28,7 +28,4 @@ To get a local copy up and running, just Clone the repo
    git clone https://github.com/yasinciftcii/weather_app
    ```
 and fire up the Local Development server using [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-   
-### License
 
-Distributed under the MIT License. See `LICENSE` for more information.
