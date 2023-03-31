@@ -8,7 +8,6 @@
       </ul>
     </li>
     <li><a href="###installation">Installation</a></li>
-    <li><a href="#license">License</a></li>
   </ol>
 
 ## About The Project
